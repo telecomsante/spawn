@@ -1,0 +1,26 @@
+{
+  "name": "spawn",
+  "version": "1.0.0",
+  "description": "co-like function that work in the browser",
+  "main": "spawn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telecomsante/spawn.git"
+  },
+  "keywords": [
+    "async",
+    "flow",
+    "generator",
+    "coro",
+    "coroutine"
+  ],
+  "author": "Florian Le Roux <florian.leroux@telecomsante.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telecomsante/spawn/issues"
+  },
+  "homepage": "https://github.com/telecomsante/spawn#readme"
+}
