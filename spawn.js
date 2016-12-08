@@ -17,4 +17,4 @@ function spawn(generatorFunc) {
   return onFulfilled();
 }
 
-if(module) module.exports = spawn;
+if(typeof module !== 'undefined') module.exports = spawn;
