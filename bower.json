@@ -1,0 +1,24 @@
+{
+  "name": "spawn",
+  "description": "co-like function that work in the browser",
+  "main": "spawn.js",
+  "authors": [
+    "Florian Le Roux <florian.leroux@telecomsante.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "async",
+    "flow",
+    "generator",
+    "coro",
+    "coroutine"
+  ],
+  "homepage": "https://github.com/telecomsante/spawn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
