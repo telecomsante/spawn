@@ -8,3 +8,16 @@
 with bower:
 
     bower install spawn
+
+# Example
+
+```js
+spawn(function* () {
+  const result = yield Promise.resolve(true);
+  return result;
+}).then(function (value) {
+  console.log(value);
+}, function (err) {
+  console.error(err);
+});
+```
